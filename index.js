@@ -1,0 +1,1 @@
+console.log('Mama ya v telike')
