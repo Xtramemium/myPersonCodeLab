@@ -3,3 +3,5 @@
 3. git commit -m ""
 4. git log / git log --oneline
 5. git push [rep_link] [branch_name]
+6. git reset / reset hard
+7. git diff
